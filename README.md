@@ -1,4 +1,4 @@
-Student Management System (Python)
+ Student Management System (Python)
 📌 Project Overview
 This project is a robust, command-line application designed to manage student records efficiently. It was developed to demonstrate core Object-Oriented Programming (OOP) concepts and persistent data storage using File Handling in Python. This project serves as a foundational tool for tracking academic data and student demographics.
 
